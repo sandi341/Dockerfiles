@@ -1,2 +1,3 @@
 FROM alpine:latest
-RUN sudo yum install nginx -y
+USER root
+RUN yum install nginx -y
