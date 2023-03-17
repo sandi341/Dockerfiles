@@ -1,3 +1,1 @@
 FROM alpinelinux
-
-FROM alpinelinux
