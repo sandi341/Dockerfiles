@@ -1,2 +1,3 @@
-FROM almalinux
+FROM alpinelinux
 
+FROM alpinelinux
