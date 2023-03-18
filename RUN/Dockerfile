@@ -1,2 +1,2 @@
 FROM alpine:latest
-RUN apt-get install nginx -y
+RUN apt install nginx -y
